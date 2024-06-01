@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    width:1920px;
+    height: 4821px; 
+}
+
+.main{
+    display:flex;
+    align-items: center;
+    margin:100px 375px 100px 376px;
+    width: 60vw;
+    height:737px;
+    
+    
+}
+.box1{
+    height:737px;
+    width: 487px;
+    padding-right: 68px;
+    
+}
+.box1 h3{
+    color:red;
+    padding-top: 143px;
+}
+
+h1{
+    color:black;
+}
+button{
+    background-color: red;
+    color:white;
+}
+.box2{
+    height:auto;
+    width:auto;
+}
+img{
+    height:737px;
+    width: 487px;
+}
+.form-popup {
+    display: none;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+    width: 450px;
+height: 362px;
+padding: 40px;
+  }
+  
+
+  
